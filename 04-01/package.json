@@ -1,0 +1,14 @@
+{
+  "name": "01-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Kamil Isoiev <isoyevkm@gmail.com>",
+  "license": "ISC"
+}
